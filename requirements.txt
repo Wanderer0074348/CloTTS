@@ -115,7 +115,7 @@ platformdirs==4.3.6
 pooch==1.8.2
 preshed==3.0.9
 propcache==0.3.0
-protobuf==6.30.1
+protobuf<6
 psutil==7.0.0
 pyarrow==19.0.1
 pycparser==2.22
