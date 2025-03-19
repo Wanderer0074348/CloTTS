@@ -6,7 +6,7 @@ import streamlit as st
 import torch
 import os
 
-
+os.environ["COQUI_TOS_AGREED"] = "1"
 torch.classes.__path__ = []
 
 
